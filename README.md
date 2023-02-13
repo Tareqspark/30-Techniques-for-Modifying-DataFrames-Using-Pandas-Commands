@@ -1,0 +1,1 @@
+With Pandas, you have the capability to perform a variety of tasks such as reading and writing data to Excel sheets, making modifications to DataFrames with just one line of code, and eliminating all rows that contain null values.
